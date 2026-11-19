@@ -1,0 +1,5 @@
+print("karyawan")
+print("========")
+print("spongebob")
+print("squidward")
+print("patrick")
