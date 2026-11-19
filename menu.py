@@ -1,0 +1,6 @@
+print("menu")
+print("=====================")
+print("krabby patty")
+print("jelly patty")
+print("krabby combo")
+print("krabby deluxe")
